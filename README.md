@@ -1,7 +1,7 @@
 # RUKA Hand (Brief Overview)
 
 This repository makes minimal changes on top of the official RUKA project. Specifically, we:
-- Updated the motor calibration code: provide `calibrate_motors_modify.py` with adjusted calibration procedure and clearer CLI prompts.
+- Updated the motor calibration code: provide `calibrate_motors.py` with adjusted calibration procedure and clearer CLI prompts.
 - Added MediaPipe-based keypoint/gesture teleoperation: provide `teleop_gesture.py` to control the robotic hand via camera keypoints.
 
 Acknowledgment & Attribution
