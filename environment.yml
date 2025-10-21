@@ -1,7 +1,0 @@
-name: ruka_hand
-channels: 
-  - defaults 
-dependencies:
-  - python=3.10
-  - pytorch
-  - pip
